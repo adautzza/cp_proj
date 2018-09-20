@@ -1,0 +1,502 @@
+# depslib dependency file v1.0
+1512177471 source:d:\utcn\an i\computer programming\proiect cp sem1\proiect_turtulea_alexandra\caractere.c
+	<stdlib.h>
+	"Caractere.h"
+
+1512179564 source:d:\utcn\an i\computer programming\proiect cp sem1\proiect_turtulea_alexandra\matrice.c
+	<stdlib.h>
+	"Matrice.h"
+
+1512179316 source:d:\utcn\an i\computer programming\proiect cp sem1\proiect_turtulea_alexandra\numere.c
+	<stdlib.h>
+	"Numere.h"
+
+1512179564 source:d:\utcn\an i\computer programming\proiect cp sem1\proiect_turtulea_alexandra\vectori.c
+	<stdlib.h>
+	"Vectori.h"
+
+1512177587 source:d:\utcn\an i\computer programming\proiect cp sem1\proiect_turtulea_alexandra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Numere.h"
+	"Caractere.h"
+	"Vectori.h"
+	"Matrice.h"
+
+1512174808 d:\utcn\an i\computer programming\proiect cp sem1\proiect_turtulea_alexandra\numere.h
+	<stdlib.h>
+
+1512179564 d:\utcn\an i\computer programming\proiect cp sem1\proiect_turtulea_alexandra\caractere.h
+	<stdlib.h>
+
+1512179564 d:\utcn\an i\computer programming\proiect cp sem1\proiect_turtulea_alexandra\vectori.h
+	<stdlib.h>
+
+1512179564 d:\utcn\an i\computer programming\proiect cp sem1\proiect_turtulea_alexandra\matrice.h
+	<stdlib.h>
+
+1512208013 source:c:\users\teo\downloads\proiect_turtulea_alexandra\proiect_turtulea_alexandra\caractere.c
+	<stdlib.h>
+	"Caractere.h"
+
+1512209086 c:\users\teo\downloads\proiect_turtulea_alexandra\proiect_turtulea_alexandra\caractere.h
+	<stdlib.h>
+
+1512209086 source:c:\users\teo\downloads\proiect_turtulea_alexandra\proiect_turtulea_alexandra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Numere.h"
+	"Caractere.h"
+	"Vectori.h"
+	"Matrice.h"
+
+1512174808 c:\users\teo\downloads\proiect_turtulea_alexandra\proiect_turtulea_alexandra\numere.h
+	<stdlib.h>
+
+1512179564 c:\users\teo\downloads\proiect_turtulea_alexandra\proiect_turtulea_alexandra\vectori.h
+	<stdlib.h>
+
+1512179564 c:\users\teo\downloads\proiect_turtulea_alexandra\proiect_turtulea_alexandra\matrice.h
+	<stdlib.h>
+
+1512179564 source:c:\users\teo\downloads\proiect_turtulea_alexandra\proiect_turtulea_alexandra\matrice.c
+	<stdlib.h>
+	"Matrice.h"
+
+1512179316 source:c:\users\teo\downloads\proiect_turtulea_alexandra\proiect_turtulea_alexandra\numere.c
+	<stdlib.h>
+	"Numere.h"
+
+1512179564 source:c:\users\teo\downloads\proiect_turtulea_alexandra\proiect_turtulea_alexandra\vectori.c
+	<stdlib.h>
+	"Vectori.h"
+
+1512679985 source:d:\utcn\an i\computer programming\proiect cp sem1\v2\proiect_turtulea_alexandra\caractere.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Caractere.h"
+
+1512679994 d:\utcn\an i\computer programming\proiect cp sem1\v2\proiect_turtulea_alexandra\caractere.h
+	<stdlib.h>
+	<string.h>
+
+1512319617 source:d:\utcn\an i\computer programming\proiect cp sem1\v2\proiect_turtulea_alexandra\matrice.c
+	<stdlib.h>
+	<stdio.h>
+	"Matrice.h"
+
+1512179564 d:\utcn\an i\computer programming\proiect cp sem1\v2\proiect_turtulea_alexandra\matrice.h
+	<stdlib.h>
+
+1512679140 source:d:\utcn\an i\computer programming\proiect cp sem1\v2\proiect_turtulea_alexandra\numere.c
+	<stdlib.h>
+	<stdio.h>
+	"Numere.h"
+
+1512678677 d:\utcn\an i\computer programming\proiect cp sem1\v2\proiect_turtulea_alexandra\numere.h
+	<stdlib.h>
+
+1512319615 source:d:\utcn\an i\computer programming\proiect cp sem1\v2\proiect_turtulea_alexandra\vectori.c
+	<stdlib.h>
+	<stdio.h>
+	"Vectori.h"
+
+1512680175 d:\utcn\an i\computer programming\proiect cp sem1\v2\proiect_turtulea_alexandra\vectori.h
+	<stdlib.h>
+
+1512680765 source:d:\utcn\an i\computer programming\proiect cp sem1\v2\proiect_turtulea_alexandra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Numere.h"
+	"Caractere.h"
+	"Vectori.h"
+	"Matrice.h"
+	"Friendly.h"
+
+1512680821 d:\utcn\an i\computer programming\proiect cp sem1\v2\proiect_turtulea_alexandra\friendly.h
+	<stdlib.h>
+	<string.h>
+
+1512680783 source:d:\utcn\an i\computer programming\proiect cp sem1\v2\proiect_turtulea_alexandra\friendly.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Friendly.h"
+
+1512679985 source:c:\users\teo\downloads\var3 (1)\proiect_turtulea_alexandra\caractere.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Caractere.h"
+
+1512679994 c:\users\teo\downloads\var3 (1)\proiect_turtulea_alexandra\caractere.h
+	<stdlib.h>
+	<string.h>
+
+1513100937 source:c:\users\teo\downloads\var3 (1)\proiect_turtulea_alexandra\matrice.c
+	<stdlib.h>
+	<stdio.h>
+	"Matrice.h"
+
+1512912441 c:\users\teo\downloads\var3 (1)\proiect_turtulea_alexandra\matrice.h
+	<stdlib.h>
+
+1513102554 source:c:\users\teo\downloads\var3 (1)\proiect_turtulea_alexandra\vectori.c
+	<stdlib.h>
+	<stdio.h>
+	"Vectori.h"
+
+1513102772 c:\users\teo\downloads\var3 (1)\proiect_turtulea_alexandra\vectori.h
+	<stdlib.h>
+
+1512680987 source:c:\users\teo\downloads\var3 (1)\proiect_turtulea_alexandra\friendly.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Friendly.h"
+
+1512680821 c:\users\teo\downloads\var3 (1)\proiect_turtulea_alexandra\friendly.h
+	<stdlib.h>
+	<string.h>
+
+1512680948 source:c:\users\teo\downloads\var3 (1)\proiect_turtulea_alexandra\numere.c
+	<stdlib.h>
+	<stdio.h>
+	"Numere.h"
+
+1512678677 c:\users\teo\downloads\var3 (1)\proiect_turtulea_alexandra\numere.h
+	<stdlib.h>
+
+1513102772 source:c:\users\teo\downloads\var3 (1)\proiect_turtulea_alexandra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Numere.h"
+	"Caractere.h"
+	"Vectori.h"
+	"Matrice.h"
+	"Friendly.h"
+
+1513213021 source:d:\utcn\an i\computer programming\proiect cp sem1\var4 13 dec\proiect_turtulea_alexandra\caractere.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Caractere.h"
+
+1513208387 d:\utcn\an i\computer programming\proiect cp sem1\var4 13 dec\proiect_turtulea_alexandra\caractere.h
+	<stdlib.h>
+	<string.h>
+
+1513209361 source:d:\utcn\an i\computer programming\proiect cp sem1\var4 13 dec\proiect_turtulea_alexandra\friendly.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Friendly.h"
+
+1513209095 d:\utcn\an i\computer programming\proiect cp sem1\var4 13 dec\proiect_turtulea_alexandra\friendly.h
+	<stdlib.h>
+	<string.h>
+
+1513209312 source:d:\utcn\an i\computer programming\proiect cp sem1\var4 13 dec\proiect_turtulea_alexandra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Numere.h"
+	"Caractere.h"
+	"Vectori.h"
+	"Matrice.h"
+	"Friendly.h"
+
+1512678677 d:\utcn\an i\computer programming\proiect cp sem1\var4 13 dec\proiect_turtulea_alexandra\numere.h
+	<stdlib.h>
+
+1513213021 d:\utcn\an i\computer programming\proiect cp sem1\var4 13 dec\proiect_turtulea_alexandra\vectori.h
+	<stdlib.h>
+
+1513208387 d:\utcn\an i\computer programming\proiect cp sem1\var4 13 dec\proiect_turtulea_alexandra\matrice.h
+	<stdlib.h>
+
+1513100937 source:d:\utcn\an i\computer programming\proiect cp sem1\var4 13 dec\proiect_turtulea_alexandra\matrice.c
+	<stdlib.h>
+	<stdio.h>
+	"Matrice.h"
+
+1513206900 source:d:\utcn\an i\computer programming\proiect cp sem1\var4 13 dec\proiect_turtulea_alexandra\numere.c
+	<stdlib.h>
+	<stdio.h>
+	"Numere.h"
+
+1513208387 source:d:\utcn\an i\computer programming\proiect cp sem1\var4 13 dec\proiect_turtulea_alexandra\vectori.c
+	<stdlib.h>
+	<stdio.h>
+	"Vectori.h"
+
+1513258618 source:c:\users\teo\downloads\proiect_turtulea_alexandra (1)\proiect_turtulea_alexandra\caractere.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Caractere.h"
+
+1513258131 c:\users\teo\downloads\proiect_turtulea_alexandra (1)\proiect_turtulea_alexandra\caractere.h
+	<stdlib.h>
+	<string.h>
+
+1513270626 source:c:\users\teo\downloads\proiect_turtulea_alexandra (1)\proiect_turtulea_alexandra\friendly.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Friendly.h"
+
+1513270626 c:\users\teo\downloads\proiect_turtulea_alexandra (1)\proiect_turtulea_alexandra\friendly.h
+	<stdlib.h>
+	<string.h>
+
+1513270760 source:c:\users\teo\downloads\proiect_turtulea_alexandra (1)\proiect_turtulea_alexandra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Numere.h"
+	"Caractere.h"
+	"Vectori.h"
+	"Matrice.h"
+	"Friendly.h"
+
+1512678677 c:\users\teo\downloads\proiect_turtulea_alexandra (1)\proiect_turtulea_alexandra\numere.h
+	<stdlib.h>
+
+1513257578 c:\users\teo\downloads\proiect_turtulea_alexandra (1)\proiect_turtulea_alexandra\vectori.h
+	<stdlib.h>
+
+1513257904 c:\users\teo\downloads\proiect_turtulea_alexandra (1)\proiect_turtulea_alexandra\matrice.h
+	<stdlib.h>
+
+1513257928 source:c:\users\teo\downloads\proiect_turtulea_alexandra (1)\proiect_turtulea_alexandra\matrice.c
+	<stdlib.h>
+	<stdio.h>
+	"Matrice.h"
+
+1513323266 source:c:\users\teo\downloads\proiect_turtulea_alexandra (1)\proiect_turtulea_alexandra\numere.c
+	<stdlib.h>
+	<stdio.h>
+	"Numere.h"
+
+1513257578 source:c:\users\teo\downloads\proiect_turtulea_alexandra (1)\proiect_turtulea_alexandra\vectori.c
+	<stdlib.h>
+	<stdio.h>
+	"Vectori.h"
+
+1513323435 source:d:\utcn\an i\computer programming\proiect cp sem1\var5 15 dec\proiect_turtulea_alexandra\proiect_turtulea_alexandra\caractere.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Caractere.h"
+
+1513327112 d:\utcn\an i\computer programming\proiect cp sem1\var5 15 dec\proiect_turtulea_alexandra\proiect_turtulea_alexandra\caractere.h
+	<stdlib.h>
+	<string.h>
+
+1513328253 source:d:\utcn\an i\computer programming\proiect cp sem1\var5 15 dec\proiect_turtulea_alexandra\proiect_turtulea_alexandra\friendly.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Friendly.h"
+
+1513330178 d:\utcn\an i\computer programming\proiect cp sem1\var5 15 dec\proiect_turtulea_alexandra\proiect_turtulea_alexandra\friendly.h
+	<stdlib.h>
+	<string.h>
+
+1513330178 source:d:\utcn\an i\computer programming\proiect cp sem1\var5 15 dec\proiect_turtulea_alexandra\proiect_turtulea_alexandra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Numere.h"
+	"Caractere.h"
+	"Vectori.h"
+	"Matrice.h"
+	"Friendly.h"
+
+1513326511 d:\utcn\an i\computer programming\proiect cp sem1\var5 15 dec\proiect_turtulea_alexandra\proiect_turtulea_alexandra\numere.h
+	<stdlib.h>
+
+1513327112 d:\utcn\an i\computer programming\proiect cp sem1\var5 15 dec\proiect_turtulea_alexandra\proiect_turtulea_alexandra\vectori.h
+	<stdlib.h>
+
+1513327112 d:\utcn\an i\computer programming\proiect cp sem1\var5 15 dec\proiect_turtulea_alexandra\proiect_turtulea_alexandra\matrice.h
+	<stdlib.h>
+
+1513323435 source:d:\utcn\an i\computer programming\proiect cp sem1\var5 15 dec\proiect_turtulea_alexandra\proiect_turtulea_alexandra\matrice.c
+	<stdlib.h>
+	<stdio.h>
+	"Matrice.h"
+
+1513323266 source:d:\utcn\an i\computer programming\proiect cp sem1\var5 15 dec\proiect_turtulea_alexandra\proiect_turtulea_alexandra\numere.c
+	<stdlib.h>
+	<stdio.h>
+	"Numere.h"
+
+1513323309 source:d:\utcn\an i\computer programming\proiect cp sem1\var5 15 dec\proiect_turtulea_alexandra\proiect_turtulea_alexandra\vectori.c
+	<stdlib.h>
+	<stdio.h>
+	"Vectori.h"
+
+1513336603 source:c:\users\teo\downloads\proiect_turtulea_alexandra (2)\proiect_turtulea_alexandra\caractere.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Caractere.h"
+
+1513338271 c:\users\teo\downloads\proiect_turtulea_alexandra (2)\proiect_turtulea_alexandra\caractere.h
+	<stdlib.h>
+	<string.h>
+
+1513337096 source:c:\users\teo\downloads\proiect_turtulea_alexandra (2)\proiect_turtulea_alexandra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Numere.h"
+	"Caractere.h"
+	"Vectori.h"
+	"Matrice.h"
+	"Friendly.h"
+
+1513338271 c:\users\teo\downloads\proiect_turtulea_alexandra (2)\proiect_turtulea_alexandra\numere.h
+	<stdlib.h>
+
+1513338271 c:\users\teo\downloads\proiect_turtulea_alexandra (2)\proiect_turtulea_alexandra\vectori.h
+	<stdlib.h>
+
+1513338271 c:\users\teo\downloads\proiect_turtulea_alexandra (2)\proiect_turtulea_alexandra\matrice.h
+	<stdlib.h>
+
+1513338271 c:\users\teo\downloads\proiect_turtulea_alexandra (2)\proiect_turtulea_alexandra\friendly.h
+	<stdlib.h>
+	<string.h>
+
+1513337096 source:c:\users\teo\downloads\proiect_turtulea_alexandra (2)\proiect_turtulea_alexandra\matrice.c
+	<stdlib.h>
+	<stdio.h>
+	"Matrice.h"
+
+1513336135 source:c:\users\teo\downloads\proiect_turtulea_alexandra (2)\proiect_turtulea_alexandra\numere.c
+	<stdlib.h>
+	<stdio.h>
+	"Numere.h"
+
+1513323309 source:c:\users\teo\downloads\proiect_turtulea_alexandra (2)\proiect_turtulea_alexandra\vectori.c
+	<stdlib.h>
+	<stdio.h>
+	"Vectori.h"
+
+1513336135 source:c:\users\teo\downloads\proiect_turtulea_alexandra (2)\proiect_turtulea_alexandra\friendly.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Friendly.h"
+
+1513336603 source:d:\utcn\an i\computer programming\proiect cp sem1\var6\caractere.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Caractere.h"
+
+1513554604 d:\utcn\an i\computer programming\proiect cp sem1\var6\caractere.h
+	<stdlib.h>
+	<string.h>
+
+1513552471 source:d:\utcn\an i\computer programming\proiect cp sem1\var6\friendly.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Friendly.h"
+
+1513554604 d:\utcn\an i\computer programming\proiect cp sem1\var6\friendly.h
+	<stdlib.h>
+	<string.h>
+
+1513337096 source:d:\utcn\an i\computer programming\proiect cp sem1\var6\matrice.c
+	<stdlib.h>
+	<stdio.h>
+	"Matrice.h"
+
+1513554604 d:\utcn\an i\computer programming\proiect cp sem1\var6\matrice.h
+	<stdlib.h>
+
+1513323309 source:d:\utcn\an i\computer programming\proiect cp sem1\var6\vectori.c
+	<stdlib.h>
+	<stdio.h>
+	"Vectori.h"
+
+1513554604 d:\utcn\an i\computer programming\proiect cp sem1\var6\vectori.h
+	<stdlib.h>
+
+1513552817 source:d:\utcn\an i\computer programming\proiect cp sem1\var6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Numere.h"
+	"Caractere.h"
+	"Vectori.h"
+	"Matrice.h"
+	"Friendly.h"
+
+1513554014 d:\utcn\an i\computer programming\proiect cp sem1\var6\numere.h
+	<stdlib.h>
+
+1513552172 source:d:\utcn\an i\computer programming\proiect cp sem1\var6\numere.c
+	<stdlib.h>
+	<stdio.h>
+	"Numere.h"
+
+1513558296 source:d:\utcn\an i\sem1\computer programming\proiect cp sem1\var6\caractere.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Caractere.h"
+	"Friendly.h"
+
+1513558204 d:\utcn\an i\sem1\computer programming\proiect cp sem1\var6\caractere.h
+	<stdlib.h>
+	<string.h>
+
+1513558204 d:\utcn\an i\sem1\computer programming\proiect cp sem1\var6\friendly.h
+	<stdlib.h>
+	<string.h>
+
+1513556417 source:d:\utcn\an i\sem1\computer programming\proiect cp sem1\var6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Numere.h"
+	"Caractere.h"
+	"Vectori.h"
+	"Matrice.h"
+	"Friendly.h"
+
+1513557614 d:\utcn\an i\sem1\computer programming\proiect cp sem1\var6\numere.h
+	<stdlib.h>
+
+1513558204 d:\utcn\an i\sem1\computer programming\proiect cp sem1\var6\vectori.h
+	<stdlib.h>
+
+1513558204 d:\utcn\an i\sem1\computer programming\proiect cp sem1\var6\matrice.h
+	<stdlib.h>
+
+1513340696 source:d:\utcn\an i\sem1\computer programming\proiect cp sem1\var6\matrice.c
+	<stdlib.h>
+	<stdio.h>
+	"Matrice.h"
+
+1513555772 source:d:\utcn\an i\sem1\computer programming\proiect cp sem1\var6\numere.c
+	<stdlib.h>
+	<stdio.h>
+	"Numere.h"
+
+1513326909 source:d:\utcn\an i\sem1\computer programming\proiect cp sem1\var6\vectori.c
+	<stdlib.h>
+	<stdio.h>
+	"Vectori.h"
+
